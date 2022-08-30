@@ -1,2 +1,10 @@
-# time-series
-All time series researches/notes
+# Time Series Works
+
+## Motivation
+
+
+## Content/Covered Subjects
+
+
+## Resources
+
