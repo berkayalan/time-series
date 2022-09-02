@@ -15,6 +15,19 @@ If you also have some resource or tutorial that I didn't cover here, you can pus
 	
 ## Content/Covered Subjects
 
+- Time Series with Pandas
+- Datareader / Remote data access 
+- Time zone handling
+- Time Series Analysis with Statsmodels
+- Forecasting and ARIMA models
+- Forecasting and SARIMA models
+- Vector Autoregression (VAR)
+- Vector Autoregression moving Average(VARMA)
+- LSTM for forecasting
+- Facebook Probhet
+- Facebook Kets
+- Amazon Forecast
+
 
 ## Resources
 
