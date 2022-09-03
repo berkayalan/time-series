@@ -34,3 +34,5 @@ If you also have some resource or tutorial that I didn't cover here, you can pus
 - [Python for Time Series Data Analysis](https://www.udemy.com/course/python-for-time-series-data-analysis/learn/lecture/13773038#learning-tools)
 
 - [Pandas' main page for Time series / date functionality](https://pandas.pydata.org/docs/user_guide/timeseries.html#timestamps-vs-time-spans)
+
+- [Time Series Forecasting Tutorial by Datacamp](https://www.datacamp.com/tutorial/tutorial-time-series-forecasting#facebook-prophet)
